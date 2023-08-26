@@ -33,14 +33,14 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="#"><img src="https://img.shields.io/badge/bootstrap-6a329f?style=for-the-badge&logo=bootstrap&logoColor=violet" alt="Bootstrap"></a>
-<a href="#"><img src="https://img.shields.io/badge/bootstrap-6a329f?style=for-the-badge&logo=bootstrap&logoColor=violet" alt="Bootstrap"></a>
+<a href="#"><img src="https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=red" alt ="Angular"></a>
 
 
 
 ##### 💪 Back-End Development
-<a href="#"><img src="https://img.shields.io/badge/django-274e13?style=for-the-badge&logo=django&logoColor=White" alt="MsSql"></a>
-<a href="#"><img src="https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"></a>
-<a href="#"><img src="https://img.shields.io/badge/sqlite-0078D4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+<a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Sql%20Server-274e13?style=for-the-badge&logo=microsoft&logoColor=White%22"></a>
+<a href="#"><img alt="Dot Net" src="https://img.shields.io/badge/Dotnet%20Version-Net6.0,Net7.0-blue"></a>
 <hr>
     
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
