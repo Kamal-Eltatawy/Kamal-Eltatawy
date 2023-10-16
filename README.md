@@ -14,11 +14,9 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
  
 
-<!-- 🏢 I'm a Full Stack Dot Net Developer.-->
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 Using DotNet And Angular.**
+ 🏢 I'm a Full Stack Dot Net Developer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with CSharp, DotNet, and MsSql, or anything related to web development.
+- 💬 Ask me about my experience with CSharp, DotNet, Angular, and MsSql, or anything related to web development.
 - ⚡ Fun Fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *The 𝙴𝚗𝚍.***
 - 📝 &nbsp; Checkout my [Resume] .. soon will come here ;)
 <!-- 👨‍💻 Check out my portfolio at Come Soon to see some of the projects I've worked on.*-->
