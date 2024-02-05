@@ -18,7 +18,6 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with CSharp, DotNet, Angular, and MsSql, or anything related to web development.
 - ⚡ Fun Fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *The 𝙴𝚗𝚍.***
-- 📝 &nbsp; Checkout my [Resume] .. soon will come here ;)
 <!-- 👨‍💻 Check out my portfolio at Come Soon to see some of the projects I've worked on.*-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
